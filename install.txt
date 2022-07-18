@@ -1,0 +1,73 @@
+// 
+
+индексация дисков (C;D)
+mouse [main.cpl]
+local disk {Z/D}
+Defender Control [sordum]
+
+// [soft] - folder
+7-zip
+DirectX
+ImageGlass
+uTorrent
+HashTAB
+VCR_Hyb_x86_x64
+Uninstall toll
+Total Uninstall
+AIDA64
+WinTools.net.Premium
+
+// [XpucT]
+
+PotPlayer
+Office 2007
+Photoshop
+Acrobat Pro DC
+
+// ?
+
+Steam; EpicStore; Uplay; Battle.net; Origin; Rockstar Game;
+SteelSeries Engine
+TS3
+
+//
+
+telegram
+
+//
+
+Chromium [Cent]
+ ; zakladki [browser]
+ ; uBlock Origin
+ ; Clear Cache
+Mozilla
+TOR Browser
+
+// [sordum]
+
+EdgeBlock
+W11ClassicMenu
+Webcam_off
+Windows Update Blocker
+
+// settings
+
+autorun.inf [settings] - (Настройки - Устройства - Автозапуск)
+provodnik [2]
+monitor [hz 60; 120+]
+dostup bystryi
+
+Этот компьютер - дополнительные параметры [доступ, защита]
+Резервное хранилище [Система > память > больше категорий]
+Windows Media Player - off
+Internet Explorer - off
+Windows Sandbox - ON
+
+W10T - SERVICES
+REG file's
+
+// Drivers
+
+Snappy Driver Installer
+GeForce Experience & Nvidia driver & AMD drivers
+
